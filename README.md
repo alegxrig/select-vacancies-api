@@ -15,3 +15,7 @@ Production-ready приложение на **FastAPI + Docker + PostgreSQL** с 
 ### Как запустить:
 ```bash
 docker compose up --build
+
+Swagger: http://localhost:8000/docs
+Эндпоинт: GET /api/v1/vacancies/
+Отчёт по отладке: Grigoryan_report.pdf
